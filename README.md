@@ -3,7 +3,7 @@
 ![Project Cover Image](assets/ssb-cover.png)
 
 ## Project Description
-<!-- -->
+
 This is a blog website built using Strapi as a headless CMS and Sveltekit as the frontend framework.
 
 <!-- ## Live Demo -->
@@ -13,7 +13,7 @@ This is a blog website built using Strapi as a headless CMS and Sveltekit as the
 <!-- ## Article Link -->
  
 ## Getting Started
-<!-- -->
+
 Clone the repo
 ```bash
 git clone https://github.com/Marktawa/sveltekit-strapi-blog
