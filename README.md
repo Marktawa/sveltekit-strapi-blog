@@ -1,6 +1,6 @@
 # Sveltekit Strapi Blog
 
-![Project Cover Image](assets/ssb-cover.png)
+![Project Cover Image](cover.png)
 
 ## Project Description
 
