@@ -8,11 +8,12 @@ This is a blog website built using Strapi as a headless CMS and Sveltekit as the
 
 <!-- ## Live Demo -->
 
-<!-- ## Source Code -->
+## Source Code
+[Sveltekit Strapi Blog v1.0.0](https://github.com/Marktawa/sveltekit-strapi-blog/releases/tag/v1.0.0)
 
 ## Article Link
 
-[Build a blog from scratch using Strapi and Sveltekit]()
+[Build a blog from scratch using Strapi and Sveltekit](https://github.com/Marktawa/sveltekit-strapi-blog-article)
  
 ## Prerequisites
 
