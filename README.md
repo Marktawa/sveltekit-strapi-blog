@@ -10,18 +10,62 @@ This is a blog website built using Strapi as a headless CMS and Sveltekit as the
 
 <!-- ## Source Code -->
 
-<!-- ## Article Link -->
+## Article Link
+
+[Build a blog from scratch using Strapi and Sveltekit]()
  
+## Prerequisites
+
+- Node.js (LTS version)
+- Git
+
 ## Getting Started
 
-Clone the repo
+Clone the repo.
 ```bash
 git clone https://github.com/Marktawa/sveltekit-strapi-blog
 ```
-Change directory
+Change directory.
 ```bash
 cd sveltekit-strapi-blog
 ```
+
+## Strapi Setup
+
+Install dependencies.
+```bash
+cd backend
+npm install
+```
+
+Build your Strapi app.
+```bash
+npm run build
+```
+
+Start your Strapi dev server.
+```bash
+npm run develop
+```
+
+Visit [localhost:1337/admin](http://localhost:1337/admin) in your browser to view the Strapi Admin Dashboard.
+
+## Sveltekit Setup
+
+Open up a new terminal session and open up the main project folder, `sveltekit-strapi-blog`. 
+
+Install dependencies.
+```bash
+cd frontend
+npm install
+```
+
+Run Sveltekit app.
+```bash
+npm run dev
+```
+
+Visit [localhost:5173](http://localhost:5173) in your browser to view the Sveltekit app.
 
 ## Author
 
